@@ -5,9 +5,8 @@ Academia published works on Music and related Technology:
 Profile link: https://tu-ilmenau.academia.edu/AkashAcademia
 
 Contents:
-1. Bachelor Summer Internship - Electronic Music and MIDI Revolution
-2. Bachelor Thesis Abstract - "Synthesis of Audio signal frequencies in to Music pitch variations to generate Sheet Music"
-    - Requirements of the project to implement the code in MATLAB
+1. Bachelor Thesis Abstract - "Synthesis of Audio signal frequencies in to Music pitch variations to generate Sheet Music"
+2. Bachelor Summer Internship - Electronic Music and MIDI Revolution
 3. Tutorials on Digital Music
    
    3.1. Digital Music - Analog to Digital Conversion
